@@ -1,4 +1,4 @@
-# 🎯 Descrição longa (README):
+# 🎯 Descrição:
 FN_MONTAR_D_CALENDARIO é uma função SQL Server que gera automaticamente uma tabela de dimensão de datas. Ela considera início e fim de período, permite ajuste de ano fiscal e retorna informações detalhadas como:
 
 Datas, dias, meses e anos
